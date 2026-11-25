@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Electronic</title><desc id="desc">Electronics, DIY and software. A dark circuit board design with cyan and green traces.</desc>
+<rect width="1200" height="280" rx="18" fill="#0d1721"/>
+<g fill="none" stroke="#183543" stroke-width="2">
+<path d="M740 0v52l60 60h400M850 0v48l42 42h308M1200 230H930l-55-55H720M1200 260H940l-50-50H760M1030 0v38l-50 50v105l45 45v42"/>
+<path d="M0 241h84l28-28h170M0 255h92l28-28h108"/>
+</g>
+<g fill="none" stroke="#4fd1c5" stroke-width="3">
+<path d="M1200 141h-117l-34-34h-94M1200 169h-97l-33 33h-90M920 0v47l-44 44v35"/>
+</g>
+<g fill="#0d1721" stroke="#4fd1c5" stroke-width="3"><circle cx="950" cy="107" r="5"/><circle cx="975" cy="202" r="5"/><circle cx="876" cy="132" r="5"/></g>
+<rect x="58" y="55" width="5" height="128" rx="2.5" fill="#a3e635"/>
+<text x="86" y="87" fill="#7e9aa8" font-family="monospace" font-size="16" letter-spacing="4">MERO326 / ELECTRONICWORLD12</text>
+<text x="82" y="151" fill="#eef8fa" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="58" letter-spacing="3">ELECTRONIC</text>
+<text x="86" y="192" fill="#4fd1c5" font-family="monospace" font-size="20" letter-spacing="2">ELECTRONICS · DIY · SOFTWARE</text>
+<text x="87" y="237" fill="#7e9aa8" font-family="Arial,Helvetica,sans-serif" font-size="15">M5STACK / ESP32 / BLUETOOTH / ANDROID</text>
+</svg>
